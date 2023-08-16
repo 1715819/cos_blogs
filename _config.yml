@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 余弦の博客
-subtitle: WA的一声就哭了
-description: 2023.7.19 掘金图片全面禁止外链了，迁移图片到自己图床进行中...
+title: 藏雪の博客
+subtitle: 哇！的一声就哭了
+description: 一个喜欢前端的新手...
 keywords: 前端, React, 全栈
-author: cos
+author: zangxue
 language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
 timezone: 'Asia/Shanghai'
 
