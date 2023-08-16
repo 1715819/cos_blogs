@@ -1,5 +1,6 @@
 ---
 title: install python3.10 on linux
+link: install-python3.10-on-linux
 date: 2023-08-16 13:07:46
 tags:
 - linux
