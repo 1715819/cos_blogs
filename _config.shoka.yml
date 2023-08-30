@@ -1,12 +1,12 @@
 # https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/config/
-alternate: zang xue
+alternate: 藏雪の博客
 
 # Assets
 statics: / #//fastly.jsdelivr.net/gh/amehime/shoka@latest/
 css: css
 js: js
 images: img
-darkmode: # true
+darkmode: true
 auto_scroll: # false
 # 是否显示页面加载动画 loading-cat
 loader:
